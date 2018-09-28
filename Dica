@@ -1,5 +1,0 @@
-Parte II. Caso o estado 000 não estiver entre os códigos para os cinco estados, existem várias soluções para o estado inicial.
-
-A mais simples é gerar um segundo modulo flipflop que com SET (q=1 no lugar q=0). Mesclar o flipflop Set  e o flipflop Reset (das aulas) para gerar o estado inicial que voce deseja.
-
-Outra solução, caso seja a versão com memória, pode colocar no estado 000 transicoes para o estado inicial que voce deseja.
